@@ -5,7 +5,7 @@ from pydantic import BaseModel
 
 import requests
 
-PRIVATE_KEY="138226ef-5121-429d-9dc0-1886b6b13196"
+PRIVATE_KEY="your private key"
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
