@@ -1,6 +1,6 @@
-# ChatNest - Live Chat Experience with Simplified UI💬 
+# ChatNest - Live Chat Experience with Simplified and Enhanced UI💬 
 
-This project is a chat user interface developed using JavaScript, specifically with React.
+This project is a chat user interface developed using JavaScript, specifically with React. The backend is handled by ChatEngine.
 
 To get started with the ChatNest application, ensure that NPM (Node Package Manager) is installed on your system.
 
