@@ -2,7 +2,7 @@
 
 This project is a chat user interface developed using JavaScript, specifically with React. The backend is handled by ChatEngine.io
 
-To get started with the ChatNest application, ensure that NPM (Node Package Manager) is installed on your system.
+To get started with this ChatNest webApp, ensure that NPM (Node Package Manager) is installed on your system.
 
 To run the website, clone the director, `cd` into it with your terminal:
 
