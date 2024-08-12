@@ -4,7 +4,7 @@ This project is a chat user interface developed using JavaScript, specifically w
 
 To get started with this ChatNest webApp, ensure that NPM (Node Package Manager) is installed on your system.
 
-To run the website, clone the director, `cd` into it with your terminal:
+To run the website, clone the directory, `cd` into it with your terminal:
 
 ## 1. Add `.env` file
 
